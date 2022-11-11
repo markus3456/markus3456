@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @markus3456
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python Flask and SQL
-- 💞️ I’m looking to collaborate on Data Engineering Projects
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python and SQL
+
 
 <!---
 markus3456/markus3456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
